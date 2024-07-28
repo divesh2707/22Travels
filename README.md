@@ -1,4 +1,4 @@
-# Tourism-Management-System
+# 22Travels: A DBMS-Powered Tourism Portal
 
 This is a Tourism Management System Project build by using html, css, javascript, php, MySQL as mini project in the 5th semister of engineering.
 This website has cool SignUp/SignIn page where you can enter your details and SignUp.
